@@ -1,4 +1,2 @@
 /* Write your T-SQL query statement below */
-select product_id 
-from Products
-where low_fats = 'Y' and recyclable ='Y'
+SELECT p.product_id FROM Products p WHERE p.low_fats = 'Y' and p.recyclable = 'Y'
