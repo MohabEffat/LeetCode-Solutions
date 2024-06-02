@@ -7,4 +7,5 @@
 | [1908-recyclable-and-low-fat-products](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [1827-invalid-tweets](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/1827-invalid-tweets) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1153-product-sales-analysis-i](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/1153-product-sales-analysis-i) |
 
