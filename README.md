@@ -19,3 +19,15 @@
 | [1773-percentage-of-users-attended-a-contest](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1161-project-employees-i](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/1161-project-employees-i) |
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
