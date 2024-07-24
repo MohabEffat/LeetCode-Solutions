@@ -1,7 +1,6 @@
 public class Solution {
     public bool IsSubsequence(string s, string t) {
         int j = 0;
-        if (s.Length == 0) return true;
         for (int i = 0; i < t.Length && j < s.Length; i++)
         {
             if (s[j] == t[i])
