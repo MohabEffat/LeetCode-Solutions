@@ -36,9 +36,14 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
