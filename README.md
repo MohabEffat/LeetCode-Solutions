@@ -38,6 +38,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0392-is-subsequence](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -46,4 +47,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
