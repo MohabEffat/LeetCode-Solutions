@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -51,6 +52,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0392-is-subsequence](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
