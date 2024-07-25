@@ -34,12 +34,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
