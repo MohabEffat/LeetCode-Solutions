@@ -28,12 +28,14 @@
 | [0001-two-sum](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## String
@@ -46,6 +48,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Trie
 |  |
@@ -61,4 +64,12 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
