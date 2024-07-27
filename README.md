@@ -27,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -54,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MohabEffat/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Trie
